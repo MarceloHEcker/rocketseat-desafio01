@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^1.19.1",
-    "sequelize": "^5.9.4",
+    "sequelize": "^5.15.1",
     "sucrase": "^3.10.1"
   }
 }
